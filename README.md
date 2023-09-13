@@ -1,5 +1,5 @@
 # Image-search-App-using-js
-## Hosted Link :-
+## Hosted Link :- https://rohitdhawale07.github.io/Image-search-App-using-js/
 Creating a complete image search app using JavaScript involves several components, including HTML 
 for the user interface, CSS for styling, JavaScript for functionality, and 
 a back-end service or API for retrieving image search results. 
